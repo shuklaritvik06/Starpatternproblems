@@ -1,3 +1,5 @@
+//draw the pattern using one for loop!
+
 #include <stdio.h>
 int main()
 {
