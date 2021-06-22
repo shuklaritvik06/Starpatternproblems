@@ -1,4 +1,4 @@
-//draw the pattern using one for loop!
+//draw the pattern using one loop!
 
 #include <stdio.h>
 int main()
